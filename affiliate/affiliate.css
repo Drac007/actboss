@@ -1,0 +1,198 @@
+.hidden
+{
+	display: none;
+}
+.visible
+{
+	display: block;
+}
+.affiliate_header
+{
+	height: 35px;
+	width: 100%;
+	background-color: white;
+	text-align: center;
+}
+.affiliate_header_left
+{
+	float: left;
+	width: 25%;
+	height: 100%;
+	background-color: gray;
+	box-sizing:border-box;
+  	-moz-box-sizing:border-box;
+  	-webkit-box-sizing:border-box;
+	border-right: 5px solid white;
+  	-moz-border-radius: 10px 10px / 10px 10px;
+	border-radius: 10px 10px / 10px 10px;
+}
+.affiliate_header_mid
+{
+	float: left;
+	width: 50%;
+	height: 100%;
+	background-color: gray;
+	box-sizing:border-box;
+  	-moz-box-sizing:border-box;
+  	-webkit-box-sizing:border-box;
+  	border-left: 5px solid white;
+  	border-right: 5px solid white;
+  	-moz-border-radius: 10px 10px / 10px 10px;
+	border-radius: 10px 10px / 10px 10px;
+}
+.affiliate_header_mid_left
+{
+	float: left;
+	width: 20%;
+	height: 100%;
+	box-sizing:border-box;
+  	-moz-box-sizing:border-box;
+  	-webkit-box-sizing:border-box;
+  	border-right: 8px solid white;
+}
+.affiliate_header_mid_right
+{
+	float: left;
+	width: 80%;
+	height: 100%;
+	box-sizing:border-box;
+  	-moz-box-sizing:border-box;
+  	-webkit-box-sizing:border-box;
+  	border-left: 2px solid white;
+}
+.affiliate_header_right
+{
+	float: left;
+	width: 25%;
+	height: 100%;
+  	background-color: gray;
+  	box-sizing:border-box;
+  	-moz-box-sizing:border-box;
+  	-webkit-box-sizing:border-box;
+  	border-left: 5px solid white;
+  	-moz-border-radius: 10px 10px / 10px 10px;
+	border-radius: 10px 10px / 10px 10px;
+}
+.affiliate_body
+{
+	float: left;
+	height: 850px;
+	width: 100%;
+	background-color: white;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	text-align: center;
+}
+.affiliate_window_left
+{
+	float: left;
+	height: 850px;
+	width: 25%;
+	background-color: gray;
+	box-sizing:border-box;
+  	-moz-box-sizing:border-box;
+  	-webkit-box-sizing:border-box;
+  	border-right: 5px solid white;
+  	-moz-border-radius: 10px 10px / 10px 10px;
+	border-radius: 10px 10px / 10px 10px;
+}
+.affiliate_menu
+{
+	float: left;
+	height: 850px;
+	width: 10%;
+	background-color: gray;
+	box-sizing:border-box;
+  	-moz-box-sizing:border-box;
+  	-webkit-box-sizing:border-box;
+  	border-right: 5px solid white;
+  	border-left: 5px solid white;
+  	-moz-border-radius: 10px 10px / 10px 10px;
+	border-radius: 10px 10px / 10px 10px;
+}
+.affiliate_menu_column
+{
+	display: none;
+	float: left;
+	height: 100%;
+	width: 25%;
+}
+.affiliate_menu_button
+{
+	height: 5%;
+	width: 100%;
+	background-color: teal;
+	box-sizing:border-box;
+  	-moz-box-sizing:border-box;
+  	-webkit-box-sizing:border-box;
+  	border: 2px outset white;
+}
+.affiliate_page
+{
+	float: left;
+	height: 850px;
+	width: 40%;
+	background-color: gray;
+	box-sizing:border-box;
+  	-moz-box-sizing:border-box;
+  	-webkit-box-sizing:border-box;
+  	border-right: 5px solid white;
+  	border-left: 5px solid white;
+  	overflow: auto;
+  	-moz-border-radius: 10px 10px / 10px 10px;
+	border-radius: 10px 10px / 10px 10px;
+}
+.affiliate_page_content
+{
+	text-align: left;
+	height: 100%;
+	width: 100%;
+	display: none;
+	overflow: auto;
+}
+.affiliate_page_content_subpage
+{
+	display: none;
+	height: 90%;
+	width: 100%;
+	overflow: auto;
+}
+.affiliate_page_content_subpage_button
+{
+	text-align: center;
+	float: left;
+	height: 2%;
+	width: 12.5%;
+	box-sizing:border-box;
+  	-moz-box-sizing:border-box;
+  	-webkit-box-sizing:border-box;
+	border: 2px solid white;
+}
+.affiliate_window_right
+{
+	float: left;
+	height: 850px;
+	width: 25%;
+	background-color: gray;
+	box-sizing:border-box;
+  	-moz-box-sizing:border-box;
+  	-webkit-box-sizing:border-box;
+  	border-left: 5px solid white;
+  	-moz-border-radius: 10px 10px / 10px 10px;
+	border-radius: 10px 10px / 10px 10px;
+}
+.affiliate_footer
+{
+	clear: both;
+	height: 35px;
+	width: 100%;
+	background-color: gray;
+	text-align: center;
+	box-sizing:border-box;
+  	-moz-box-sizing:border-box;
+  	-webkit-box-sizing:border-box;
+	-moz-border-radius: 10px 10px / 10px 10px;
+	border-radius: 10px 10px / 10px 10px;
+}
