@@ -67,7 +67,7 @@ mobile_check();
 		<br/>
 		<br/>
 		<br/>
-		<h1>Imagine this... ...</h1>
+		<h1>Imagine this... :)</h1>
 		<br/>
 		<br/>
 		<h1>Waking up tomorrow</h1>
